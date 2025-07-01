@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\00.dotnet_study\\00_dotNetExam\\FirstCon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1438F24-BACA-42B1-A32B-A522A539E5E8}|FirstCon\\FirstCon.vbproj|c:\\00.dotnet_study\\00_dotnetexam\\firstcon\\firstcon\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B1438F24-BACA-42B1-A32B-A522A539E5E8}|FirstCon\\FirstCon.vbproj|solutionrelative:firstcon\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\00.dotnet_study\\00_dotNetExam\\FirstCon\\FirstCon\\Program.vb",
+              "RelativeDocumentMoniker": "FirstCon\\Program.vb",
+              "ToolTip": "C:\\00.dotnet_study\\00_dotNetExam\\FirstCon\\FirstCon\\Program.vb",
+              "RelativeToolTip": "FirstCon\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T13:26:29.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
